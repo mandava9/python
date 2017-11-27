@@ -1,0 +1,17 @@
+# In class week 2 lab2a
+
+
+#1
+
+x= int(input('Enter an interger to check if it is positive or negative'))
+if x < 0:
+ print('The number is negative')
+else:
+ print('THe number is positive')
+
+
+
+#2
+
+y= int(input('Enter an interger between 1 to 7'))
+

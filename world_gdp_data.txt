@@ -1,0 +1,230 @@
+Qatar|$129,700
+Luxembourg|$102,000
+Macau|$96,100
+Liechtenstein|$89,400
+Singapore|$87,100
+Bermuda|$85,700
+Isle of Man|$83,100
+Brunei|$79,700
+Monaco|$78,700
+Kuwait|$71,300
+Ireland|$69,400
+Norway|$69,300
+United Arab Emirates|$67,700
+Sint Maarten|$66,800
+San Marino|$65,300
+Switzerland|$59,400
+Hong Kong|$58,100
+United States|$57,300
+Jersey|$57,000
+Falkland Islands (Islas Malvinas)|$55,400
+Saudi Arabia|$54,100
+Guernsey|$52,300
+Netherlands|$50,800
+Bahrain|$50,300
+Sweden|$49,700
+Australia|$48,800
+Germany|$48,200
+Iceland|$48,100
+Austria|$47,900
+Taiwan|$47,800
+Denmark|$46,600
+Canada|$46,200
+Belgium|$44,900
+Cayman Islands|$43,800
+Oman|$43,700
+Gibraltar|$43,000
+United Kingdom|$42,500
+France|$42,400
+British Virgin Islands|$42,300
+Finland|$41,800
+Japan|$38,900
+New Caledonia|$38,800
+Equatorial Guinea|$38,700
+Malta|$37,900
+Korea, South|$37,900
+Greenland|$37,900
+European Union|$37,800
+Puerto Rico|$37,700
+Andorra|$37,200
+New Zealand|$37,100
+Faroe Islands|$36,600
+Spain|$36,500
+Italy|$36,300
+Virgin Islands|$36,100
+Saint Pierre and Miquelon|$34,900
+Israel|$34,800
+Cyprus|$34,400
+Czechia|$33,200
+Slovenia|$32,000
+Trinidad and Tobago|$31,900
+Slovakia|$31,200
+Guam|$30,500
+Lithuania|$29,900
+Estonia|$29,500
+Turks and Caicos Islands|$29,100
+Portugal|$28,500
+Seychelles|$28,000
+Poland|$27,700
+Hungary|$27,200
+Malaysia|$27,200
+Greece|$26,800
+French Polynesia|$26,100
+Russia|$26,100
+Kazakhstan|$25,700
+Latvia|$25,700
+Saint Kitts and Nevis|$25,500
+Aruba|$25,300
+Bahamas, The|$24,600
+Antigua and Barbuda|$24,100
+Chile|$24,000
+Panama|$22,800
+Croatia|$22,400
+Romania|$22,300
+Uruguay|$21,600
+Turkey|$21,100
+Mauritius|$20,500
+Argentina|$20,200
+Bulgaria|$20,100
+Gabon|$19,300
+Saint Martin|$19,300
+Mexico|$18,900
+Lebanon|$18,500
+Iran|$18,100
+Azerbaijan|$17,700
+Belarus|$17,500
+Turkmenistan|$17,300
+Barbados|$17,200
+Montenegro|$17,000
+Botswana|$16,900
+Thailand|$16,800
+Iraq|$16,500
+Costa Rica|$16,100
+Dominican Republic|$15,900
+China|$15,400
+Palau|$15,300
+Maldives|$15,300
+Suriname|$15,200
+Brazil|$15,200
+Venezuela|$15,100
+Curacao|$15,000
+Algeria|$15,000
+Nauru|$14,800
+Macedonia|$14,500
+Libya|$14,200
+Colombia|$14,200
+Serbia|$14,200
+Grenada|$14,100
+Northern Mariana Islands|$13,300
+South Africa|$13,200
+American Samoa|$13,000
+Peru|$13,000
+Cook Islands|$12,300
+Mongolia|$12,200
+Anguilla|$12,200
+Egypt|$12,100
+Saint Lucia|$12,000
+Albania|$11,900
+Namibia|$11,800
+Tunisia|$11,700
+Indonesia|$11,700
+Cuba|$11,600
+Dominica|$11,400
+Saint Vincent and the Grenadines|$11,300
+Sri Lanka|$11,200
+Jordan|$11,100
+Bosnia and Herzegovina|$11,000
+Ecuador|$11,000
+Georgia|$10,100
+Kosovo|$10,000
+Swaziland|$9,800
+Paraguay|$9,400
+Fiji|$9,400
+Jamaica|$9,000
+El Salvador|$8,900
+Armenia|$8,900
+Montserrat|$8,500
+Morocco|$8,400
+Belize|$8,200
+Ukraine|$8,200
+Bhutan|$8,100
+Guatemala|$7,900
+Guyana|$7,900
+Saint Helena, Ascension, and Tristan da Cunha|$7,800
+Philippines|$7,700
+Bolivia|$7,200
+Congo, Republic of the|$6,800
+Angola|$6,800
+Cabo Verde|$6,700
+India|$6,700
+Uzbekistan|$6,500
+Vietnam|$6,400
+Burma|$6,000
+Nigeria|$5,900
+Niue|$5,800
+Laos|$5,700
+Samoa|$5,400
+Honduras|$5,300
+Tonga|$5,300
+Nicaragua|$5,300
+Moldova|$5,200
+Pakistan|$5,100
+Sudan|$4,500
+Mauritania|$4,400
+Ghana|$4,400
+West Bank|$4,300
+Timor-Leste|$4,200
+Bangladesh|$3,900
+Zambia|$3,900
+Wallis and Futuna|$3,800
+Cambodia|$3,700
+Cote d'Ivoire|$3,600
+Kyrgyzstan|$3,500
+Tuvalu|$3,500
+Papua New Guinea|$3,500
+Kenya|$3,400
+Djibouti|$3,400
+Cameroon|$3,300
+Marshall Islands|$3,300
+Sao Tome and Principe|$3,300
+Tanzania|$3,100
+Lesotho|$3,100
+Micronesia, Federated States of|$3,000
+Tajikistan|$3,000
+Syria|$2,900
+Vanuatu|$2,600
+Senegal|$2,600
+Chad|$2,600
+Yemen|$2,500
+Western Sahara|$2,500
+Nepal|$2,500
+Mali|$2,300
+Benin|$2,200
+Uganda|$2,100
+Zimbabwe|$2,000
+Solomon Islands|$2,000
+Afghanistan|$2,000
+Ethiopia|$1,900
+Rwanda|$1,900
+Haiti|$1,800
+Burkina Faso|$1,800
+Korea, North|$1,800
+Kiribati|$1,800
+South Sudan|$1,700
+Gambia, The|$1,700
+Sierra Leone|$1,700
+Guinea-Bissau|$1,600
+Madagascar|$1,500
+Comoros|$1,500
+Togo|$1,500
+Eritrea|$1,300
+Guinea|$1,300
+Mozambique|$1,200
+Niger|$1,100
+Malawi|$1,100
+Tokelau|$1,000
+Liberia|$900
+Congo, Democratic Republic of the|$800
+Burundi|$800
+Central African Republic|$700
+Somalia|$400

@@ -1,0 +1,4 @@
+f = open('file.txt','r')
+f.seek(0) # to reset the pointer in a file to read the file again
+f.tell() # to know the position of the pointer
+print(line.strip()) # to remove all empty spaces

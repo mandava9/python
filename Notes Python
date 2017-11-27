@@ -1,0 +1,10 @@
+#boolian functions and operators. ******Notes*****
+
+
+>>> bool("Turing")
+True
+>>> bool(" ")
+True
+>>> bool("")
+False
+>>> 

@@ -1,0 +1,11 @@
+#inclass week 6
+d= {'1':1,'2':2,'3':3,'4':4}
+print(d.keys())
+#for printing a dictionary 
+for key, value in d.items():
+	print(key,'=',value)
+
+#sets
+example2 = set([28,True,2.71828,"Helium"])
+#or example2={28,True,2.71828,"Helium"}
+#example2.clear() is used to clear the set
